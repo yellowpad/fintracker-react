@@ -1,0 +1,23 @@
+{
+  "name": "btc-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.16.1",
+    "rd3": "^0.7.4",
+    "react": "^15.5.4",
+    "react-d3-basic": "^1.6.11",
+    "react-dom": "^15.5.4",
+    "recharts": "^0.22.4",
+    "yahoo-finance": "^0.2.16"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
